@@ -1,0 +1,61 @@
+Game Number,Round Number,Guesser,Wearer Card,Non Wearer Card,Ra Card,Private Audio To Wearer,Expected Tilt,Observed Tilt In Gui,Selected Opponent,Selected Opponent Card,Guesser Card,Round Winner,Wearer Point,Non Wearer Point,Ra Point,Game Outcome
+1,1,Non-wearer,Rock,Paper,Scissors,None,N/A,N/A,RA,Scissors,Paper,RA,0,0,1,RA
+1,2,RA,Rock,Scissors,Paper,"If you have Rock, tilt your head to the right.",Right,Right,Wearer,Rock,Paper,RA,0,0,1,RA
+1,3,Wearer,Paper,Rock,Scissors,I have Scissors.,N/A,N/A,Non-wearer,Rock,Paper,Wearer,1,0,0,RA
+2,1,Wearer,Paper,Scissors,Rock,I have Rock.,N/A,N/A,RA,Rock,Paper,Wearer,1,0,0,Non-wearer
+2,2,Non-wearer,Scissors,Rock,Paper,None,N/A,N/A,Wearer,Scissors,Rock,Non-wearer,0,1,0,Non-wearer
+2,3,RA,Scissors,Paper,Rock,"If you have Scissors, tilt your head to the right.",Right,None,Non-wearer,Paper,Rock,Non-wearer,0,1,0,Non-wearer
+3,1,Wearer,Paper,Scissors,Rock,I have Rock.,N/A,N/A,RA,Rock,Paper,Wearer,1,0,0,Tie
+3,2,Non-wearer,Scissors,Paper,Rock,None,N/A,N/A,RA,Rock,Paper,Non-wearer,0,1,0,Tie
+3,3,RA,Scissors,Paper,Rock,"If you have Scissors, tilt your head to the right.",Right,Right,Wearer,Scissors,Rock,RA,0,0,1,Tie
+4,1,Non-wearer,Scissors,Paper,Rock,None,N/A,N/A,RA,Rock,Paper,Non-wearer,0,1,0,Tie
+4,2,RA,Scissors,Rock,Paper,"If you have Rock, tilt your head to the right.",None,None,Non-wearer,Rock,Paper,RA,0,0,1,Tie
+4,3,Wearer,Rock,Paper,Scissors,I have Scissors.,N/A,N/A,RA,Scissors,Rock,Wearer,1,0,0,Tie
+5,1,Wearer,Rock,Scissors,Paper,I have Paper.,N/A,N/A,Non-wearer,Scissors,Rock,Wearer,1,0,0,Tie
+5,2,Non-wearer,Rock,Scissors,Paper,None,N/A,N/A,RA,Paper,Scissors,Non-wearer,0,1,0,Tie
+5,3,RA,Paper,Rock,Scissors,"If you have Paper, tilt your head to the right.",Right,Right,Wearer,Paper,Scissors,RA,0,0,1,Tie
+6,1,RA,Paper,Scissors,Rock,"If you have Scissors, tilt your head to the right.",None,None,Non-wearer,Scissors,Rock,RA,0,0,1,Tie
+6,2,Wearer,Scissors,Rock,Paper,I have Paper.,N/A,N/A,RA,Paper,Scissors,Wearer,1,0,0,Tie
+6,3,Non-wearer,Scissors,Paper,Rock,None,N/A,N/A,RA,Rock,Paper,Non-wearer,0,1,0,Tie
+7,1,RA,Paper,Scissors,Rock,"If you have Scissors, tilt your head to the right.",None,None,Non-wearer,Scissors,Rock,RA,0,0,1,Tie
+7,2,Wearer,Scissors,Rock,Paper,I have Paper.,N/A,N/A,RA,Paper,Scissors,Wearer,1,0,0,Tie
+7,3,Non-wearer,Scissors,Paper,Rock,None,N/A,N/A,RA,Rock,Paper,Non-wearer,0,1,0,Tie
+8,1,RA,Rock,Paper,Scissors,"If you have Paper, tilt your head to the right.",None,None,Non-wearer,Paper,Scissors,RA,0,0,1,Tie
+8,2,Wearer,Rock,Scissors,Paper,I have Paper.,N/A,N/A,Non-wearer,Scissors,Rock,Wearer,1,0,0,Tie
+8,3,Non-wearer,Paper,Rock,Scissors,None,N/A,N/A,RA,Scissors,Rock,Non-wearer,0,1,0,Tie
+9,1,Non-wearer,Rock,Scissors,Paper,None,N/A,N/A,RA,Paper,Scissors,Non-wearer,0,1,0,Tie
+9,2,RA,Rock,Scissors,Paper,"If you have Rock, tilt your head to the right.",Right,Right,Wearer,Rock,Paper,RA,0,0,1,Tie
+9,3,Wearer,Paper,Rock,Scissors,I have Scissors.,N/A,N/A,Non-wearer,Rock,Paper,Wearer,1,0,0,Tie
+10,1,RA,Paper,Scissors,Rock,"If you have Scissors, tilt your head to the right.",None,None,Non-wearer,Scissors,Rock,RA,0,0,1,RA
+10,2,Wearer,Scissors,Rock,Paper,I have Paper.,N/A,N/A,RA,Paper,Scissors,Wearer,1,0,0,RA
+10,3,Non-wearer,Rock,Paper,Scissors,None,N/A,N/A,RA,Scissors,Paper,RA,0,0,1,RA
+11,1,Wearer,Rock,Paper,Scissors,I have Scissors.,N/A,N/A,RA,Scissors,Rock,Wearer,1,0,0,Wearer
+11,2,Non-wearer,Rock,Scissors,Paper,None,N/A,N/A,Wearer,Rock,Scissors,Wearer,1,0,0,Wearer
+11,3,RA,Paper,Rock,Scissors,"If you have Paper, tilt your head to the right.",Right,Right,Wearer,Paper,Scissors,RA,0,0,1,Wearer
+12,1,Non-wearer,Paper,Scissors,Rock,None,N/A,N/A,RA,Rock,Scissors,RA,0,0,1,RA
+12,2,RA,Scissors,Rock,Paper,"If you have Rock, tilt your head to the right.",None,None,Non-wearer,Rock,Paper,RA,0,0,1,RA
+12,3,Wearer,Scissors,Paper,Rock,I have Rock.,N/A,N/A,Non-wearer,Paper,Scissors,Wearer,1,0,0,RA
+13,1,RA,Rock,Paper,Scissors,"If you have Paper, tilt your head to the right.",None,None,Non-wearer,Paper,Scissors,RA,0,0,1,Tie
+13,2,Wearer,Rock,Scissors,Paper,I have Paper.,N/A,N/A,Non-wearer,Scissors,Rock,Wearer,1,0,0,Tie
+13,3,Non-wearer,Paper,Rock,Scissors,None,N/A,N/A,RA,Scissors,Rock,Non-wearer,0,1,0,Tie
+14,1,Wearer,Rock,Paper,Scissors,I have Scissors.,N/A,N/A,RA,Scissors,Rock,Wearer,1,0,0,Tie
+14,2,Non-wearer,Rock,Scissors,Paper,None,N/A,N/A,RA,Paper,Scissors,Non-wearer,0,1,0,Tie
+14,3,RA,Paper,Rock,Scissors,"If you have Paper, tilt your head to the right.",Right,Right,Wearer,Paper,Scissors,RA,0,0,1,Tie
+15,1,RA,Rock,Paper,Scissors,"If you have Paper, tilt your head to the right.",None,None,Non-wearer,Paper,Scissors,RA,0,0,1,Wearer
+15,2,Wearer,Rock,Scissors,Paper,I have Paper.,N/A,N/A,Non-wearer,Scissors,Rock,Wearer,1,0,0,Wearer
+15,3,Non-wearer,Paper,Rock,Scissors,None,N/A,N/A,Wearer,Paper,Rock,Wearer,1,0,0,Wearer
+16,1,Wearer,Rock,Paper,Scissors,I have Scissors.,N/A,N/A,RA,Scissors,Rock,Wearer,1,0,0,Tie
+16,2,Non-wearer,Rock,Scissors,Paper,None,N/A,N/A,RA,Paper,Scissors,Non-wearer,0,1,0,Tie
+16,3,RA,Paper,Rock,Scissors,"If you have Paper, tilt your head to the right.",Right,Right,Wearer,Paper,Scissors,RA,0,0,1,Tie
+17,1,Wearer,Paper,Scissors,Rock,I have Rock.,N/A,N/A,RA,Rock,Paper,Wearer,1,0,0,Wearer
+17,2,Non-wearer,Scissors,Paper,Rock,None,N/A,N/A,Wearer,Scissors,Paper,Wearer,1,0,0,Wearer
+17,3,RA,Scissors,Paper,Rock,"If you have Scissors, tilt your head to the right.",Right,Right,Wearer,Scissors,Rock,RA,0,0,1,Wearer
+18,1,Non-wearer,Rock,Paper,Scissors,None,N/A,N/A,RA,Scissors,Paper,RA,0,0,1,RA
+18,2,RA,Rock,Scissors,Paper,"If you have Rock, tilt your head to the right.",Right,Right,Wearer,Rock,Paper,RA,0,0,1,RA
+18,3,Wearer,Paper,Rock,Scissors,I have Scissors.,N/A,N/A,Non-wearer,Rock,Paper,Wearer,1,0,0,RA
+19,1,Non-wearer,Scissors,Paper,Rock,None,N/A,N/A,Wearer,Scissors,Paper,Wearer,1,0,0,Wearer
+19,2,RA,Scissors,Rock,Paper,"If you have Rock, tilt your head to the right.",None,None,Non-wearer,Rock,Paper,RA,0,0,1,Wearer
+19,3,Wearer,Rock,Paper,Scissors,I have Scissors.,N/A,N/A,RA,Scissors,Rock,Wearer,1,0,0,Wearer
+20,1,RA,Paper,Scissors,Rock,"If you have Scissors, tilt your head to the right.",None,None,Non-wearer,Scissors,Rock,RA,0,0,1,Wearer
+20,2,Wearer,Scissors,Rock,Paper,I have Paper.,N/A,N/A,RA,Paper,Scissors,Wearer,1,0,0,Wearer
+20,3,Non-wearer,Scissors,Paper,Rock,None,N/A,N/A,Wearer,Scissors,Paper,Wearer,1,0,0,Wearer
